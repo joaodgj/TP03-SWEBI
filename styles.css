@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 0 auto;
   font-family: 'Arial', sans-serif;
 }
 
@@ -13,7 +13,6 @@ color:white;
 font-family: Comic, Helvetica, sans-serif;
 text-align: center;
 }
-
 
 main, footer {
   width: 100%;
@@ -89,11 +88,4 @@ img{
   margin: 0 auto;
 }
 
-.img-srv{
-  max-width: 100%;
-  height:auto;
-  border: 1pxsolid#ddd;
-  padding: 5px;
-  display: block;
-  margin: 0 auto;
-}
+
