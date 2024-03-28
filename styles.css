@@ -84,3 +84,13 @@ img{
     display: block;
     margin: 0 auto;
   }
+
+@media screen and (max-width: 767px) {
+  nav {
+    flex-direction: column;
+  }
+
+  nav a {
+    margin: 10px 0;
+  }
+}
